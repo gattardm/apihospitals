@@ -111,4 +111,5 @@ public class HospitalController {
         hospitalService.deleteHospital(id);
     }
 
+    public void osef() {}
 }
