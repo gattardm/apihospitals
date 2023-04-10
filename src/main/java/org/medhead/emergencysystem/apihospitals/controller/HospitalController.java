@@ -110,5 +110,5 @@ public class HospitalController {
     public void deleteHospital(@PathVariable("id") final Long id) {
         hospitalService.deleteHospital(id);
     }
-
+    public void osef(){}
 }
